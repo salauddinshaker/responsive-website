@@ -1,0 +1,83 @@
+
+.bg-c{
+    background-color: #fffbf0;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.logo img{
+    width: 350px;
+}
+.nav-right{
+    padding: 3px 5px;
+}
+
+.div-width img{
+    height:400px;
+    padding-left:50px;
+}
+#penguine{
+    color: #fabe4c;
+    font-size:62px;
+    font-weight:600;
+   
+}
+#winter{
+    font-size:62px; 
+    color:#363958 ;
+    font-weight:600;
+    
+}
+.btn-color{
+   background-color:  #9bb438;
+   padding: 15px 20px 15px 15px;
+   border: 0px;
+   border-radius: 10px;
+   color: white;
+   align-items: center;
+}
+.btn-color img{
+   height:25px;
+   padding:0px 10px;
+}
+.woman-jacket{
+    margin-top: 150px;
+}
+#woman-jacket{
+   margin-bottom: 50px;
+}
+.woman-jacket-card{
+  width:330px;
+  padding: 1.5remrem;
+  border: 0;
+  background-color:#f1f1f1;
+  border-radius: 15px;
+}
+
+.woman-jacket-card img{
+    padding: 15px 30px;
+    height: 50%;
+    width: 100%;
+ 
+}
+.sele-btn .card-btn{
+    padding: 15px 20px 15px 10px ;
+    font-size: 15px;
+    align-items:right;
+    margin-left: 90px;
+}
+.service-section{
+    flex-direction:column;
+    margin-top: 150px;
+}
+.service-details{
+    
+}
+.shoping-cart{
+   width: 800px;
+}
+.shoping-image{
+    width: 100%;
+    height:400px;
+}
+   
