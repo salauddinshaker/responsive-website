@@ -1,15 +1,18 @@
-
-.bg-c{
+body{
+    background-color: #ffffff;
+}
+.header-part{
     background-color: #fffbf0;
-    font-family: 'Noto Sans JP', sans-serif;
+   
     
 }
 
 .logo img{
     width: 350px;
 }
-.nav-right{
-    padding: 3px 5px;
+.nav-design ul li{
+    padding:12px;
+    font-weight: bold;
 }
 
 .div-width img{
@@ -40,18 +43,34 @@
    height:25px;
    padding:0px 10px;
 }
+
 .woman-jacket{
+   margin-bottom: 50px;
+    color:#363958 ;
+    font-weight: bold;
     margin-top: 150px;
 }
-#woman-jacket{
-   margin-bottom: 50px;
+.card-border{
+background-color:#fff;
+border-radius: 15px;
+box-shadow:5px 5px 2px rgb(245, 240, 240);
+
+
+
 }
 .woman-jacket-card{
   width:330px;
-  padding: 1.5remrem;
   border: 0;
   background-color:#f1f1f1;
   border-radius: 15px;
+  margin-top: 10px;
+  
+}
+.card-title{
+    color: #363958 ;
+}
+.price-color{
+    color:#fabe4c ;
 }
 
 .woman-jacket-card img{
@@ -71,7 +90,7 @@
     margin-top: 150px;
 }
 .service-details{
-    
+    margin-left:50px;
 }
 .shoping-cart{
    width: 800px;
@@ -79,5 +98,33 @@
 .shoping-image{
     width: 100%;
     height:400px;
+}
+.service-available{
+    display: flex;
+    background-color: #fff;
+    margin-bottom: 40px;
+    box-shadow: 5px 10px 3px rgb(245, 240, 240);
+    padding:15px 3px 15px 8px;
+    border-radius: 10px;
+    margin-right:20px;
+}
+.shoping-image{
+    margin-top: 40px;
+}
+#subscribe{
+    background-color:#d2b4b8;
+    height: 300px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+input{
+    border-radius: 10px; 
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.submit-btn{
+    border-radius: 10px;
 }
    
